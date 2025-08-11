@@ -4,22 +4,11 @@
 ![Markdown](https://img.shields.io/badge/Docs-Markdown-lightgrey?logo=markdown)
 ![Status](https://img.shields.io/badge/Project-GUI%20Exercise%20|%20%20University%20Course-6B7280)
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>All Screens</strong>
-    </td>
-  <tr>
-    <td align="center">
-      <img src="/designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800">
-    </td>
-  </tr>
-</table>
+| All screens (overview) | Demo Video |
+| :---: | :---: |
+| <img src="/designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800"> |<img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" width="200" /> <br> [Click to download and watch the demo video](/docs/prototype.md#short-demo-of-a-game-scenario)|
 
-#### **Demo Video**
-<img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" width="200" />
 
-[Click to download and watch the demo video](/docs/prototype.md#short-demo-of-a-game-scenario)
 
 ## Introduction
 This project showcases the end-to-end UI/UX design process for a Ludo board game interface, created for a university Software Engineering course - GUI/UX exercise. It demonstrates the application of design concepts, research, hand-drawn and digital wireframes, and an interactive prototype built in Figma.

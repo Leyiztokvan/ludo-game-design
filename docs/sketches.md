@@ -28,7 +28,7 @@
 #### Smartphone
 | Old (Indian, Retro) | Modern (British) |
 | :---: | :---: |
-| <img src="../designs/sketches/sketch-old-retro-indian.jpg" width="320" height="270" style="object-fit: contain;" alt="Retro Indian smartphone sketch" /> | <img src="../designs/sketches/ludo-prototype-wireframe.jpg" width="600" style="object-fit: contain;" alt="Smartphone wireframe" /> |
+| <img src="../designs/sketches/sketch-old-retro-indian.jpg" width="320" height="270" style="object-fit: contain;" alt="Retro Indian smartphone sketch" /> | <img src="../designs/sketches/ludo-prototype-wireframe.jpg" width="400" style="object-fit: contain;" alt="Smartphone wireframe" /> |
 
 ---
 

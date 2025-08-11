@@ -37,8 +37,7 @@
 Note: GitHub does not support inline video playback, and this demo video (~9 MB) is too large to preview directly.
 
 To watch the video: 👉 [Click here to download or open the demo video](../designs/prototype-figma/ludo-prototype-demo.mp4)
-
-  Then in the upper-right corner of the opened video page `designs/prototype-figma/ludo-prototype-demo.mp4`, click the ••• menu and select "Download" if it doesn’t play in your browser.
+. --> Then in the upper-right corner of the opened video page `designs/prototype-figma/ludo-prototype-demo.mp4`, click the `•••` menu and select `Download` if it doesn’t play in your browser.
     
 The design logic by always clicking on the dice to change turns between players is only implemented to showcase the functionalities of the game. A fully realistic interactive prototype scenario wasn’t possible due to limitations in the free version of Figma.
 
