@@ -9,22 +9,17 @@
     <td align="center">
       <strong>All Screens</strong>
     </td>
-    <td align="center">
-      <strong>Demo Video</strong>
-    </td>
-  </tr>
   <tr>
     <td align="center">
       <img src="/designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800">
     </td>
-    <td align="center" >
-      <img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" width="200" />
-      <br>
-      <a href= "/docs/prototype.md/#Short Demo of a Game Scenario">Click to download and watch the demo video</a>
-      <p>[Click to download and watch the demo video](/docs/prototype.md#short-demo-of-a-game-scenario)</p>
-    </td>
   </tr>
 </table>
+
+#### **Demo Video**
+<img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" width="200" />
+
+[Click to download and watch the demo video](/docs/prototype.md#short-demo-of-a-game-scenario)
 
 ## Introduction
 This project showcases the end-to-end UI/UX design process for a Ludo board game interface, created for a university Software Engineering course - GUI/UX exercise. It demonstrates the application of design concepts, research, hand-drawn and digital wireframes, and an interactive prototype built in Figma.
