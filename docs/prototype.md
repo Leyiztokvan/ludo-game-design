@@ -29,17 +29,18 @@
 - The assets used in the prototype are available in the [assets-figma](/resources/assets-figma/) folder.
 
 #### Short Demo of a Game Scenario
-<div style="display: flex; justify-content: center; align-items: center;">
-  <video width="360" height="400" controls controls autoplay muted loop>
-    <source src="../designs/prototype-figma/ludo-prototype-demo.mp4" type="video/mp4">
-  </video>
-</div>
 
-*(A short interactive game scenario built in Figma free version — Player D wins.)*
+<img src="../designs/prototype-figma/ludo-prototype-demo.jpeg" width="200" />
 
-*The design logic by always clicking on the dice to change turns between players is only implemented to be able to showcase the functionalities of the game. It was not possible to make a realistic interactive prototype scenario because of the limited functionalities of Figma free version.*
+*A short interactive game scenario built in the free version of Figma — Player D wins.*
 
-- Note: GitHub may not autoplay `<video>` tags. Use the file link [prototype demo](designs/prototype-figma/ludo-prototype-demo.mp4) to open/play the video.
+**Note**: GitHub does not support inline video playback, and this demo video (~9 MB) is too large to preview directly.
+
+To watch the video: 👉 [Click here to download or open the demo video](../designs/prototype-figma/ludo-prototype-demo.mp4)
+. 
+- --> Then in the upper-right corner of the opened video page `designs/prototype-figma/ludo-prototype-demo.mp4`, click the `•••` menu and select `Download` if it doesn’t play in your browser.
+    
+The design logic by always clicking on the dice to change turns between players is only implemented to showcase the functionalities of the game. A fully realistic interactive prototype scenario wasn’t possible due to limitations in the free version of Figma.
 
 ---
 

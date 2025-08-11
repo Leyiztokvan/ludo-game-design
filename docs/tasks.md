@@ -1,4 +1,4 @@
-###  **Tasks**
+# **Tasks**
 
 ###  ***§DONE§*** **Create at least 4 different sketches for the main view of the Ludo game**: 
   - sketches can be similar, include at least **three radically different designs**.
