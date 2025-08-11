@@ -39,7 +39,7 @@
 
 *The design logic by always clicking on the dice to change turns between players is only implemented to be able to showcase the functionalities of the game. It was not possible to make a realistic interactive prototype scenario because of the limited functionalities of Figma free version.*
 
-- Note: GitHub may not autoplay `<video>` tags. Use the file link [prototype demo](designs/prototype-figma/ludo-prototype-demo.mp4) to open/play the video.
+- Note: GitHub may not autoplay `<video>` tags. Use the file link [prototype demo](/designs/prototype-figma/ludo-prototype-demo.mp4) to open/play the video.
 
 ---
 

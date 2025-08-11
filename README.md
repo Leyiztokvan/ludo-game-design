@@ -15,11 +15,11 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800">
+      <img src="/designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800">
     </td>
     <td align="center" >
       <video width="360" controls autoplay muted loop>
-        <source src="designs/prototype-figma/ludo-prototype-demo.mp4" type="video/mp4">
+        <source src="/designs/prototype-figma/ludo-prototype-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>

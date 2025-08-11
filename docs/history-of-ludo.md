@@ -23,7 +23,7 @@ Today's Ludo board design is a testament to the game's enduring popularity. The 
 
 | Early British | Modern |
 | :---: | :---: |
-| <img src="../resources/ludo-history-research/ludo-old-board.png" width="360" height="270" style="object-fit: fill;" alt="Early British Ludo board" /> | <img src="../resources/ludo-history-research/ludo-old-board-british.jpg" width="360" height="270" style="object-fit: fill;" alt="Modern Ludo board" /> |
+| <img src="../resources/ludo-history-research/ludo-old-board.png" width="360" height="270" style="object-fit: contain;" alt="Early British Ludo board" /> | <img src="../resources/ludo-history-research/ludo-old-board-british.jpg" width="360" height="270" style="object-fit: fill;" alt="Modern Ludo board" /> |
 
 ### The Digital Era of the Ludo Board Game
 As the popularity of the Ludo game seems prosperous and never-ending, it has made a seamless transition into the digital realm in the age of smartphones and tablets. Mobile apps and online platforms offer players the opportunity to enjoy the game virtually, connecting with friends and family from around the world. While the core gameplay remains the same, the digital versions often feature animated pieces and interactive elements that add a new dimension to the experience.
@@ -31,7 +31,7 @@ One of the leading digital Ludo platforms in India is Ludo Empire. Ludo Empire i
 
 | Web Game | Mobile (6 players) | Mobile (4 players) |
 | :---: | :---: | :---: |
-| <img src="../resources/ludo-history-research/ludo-silvergames-desktop-web.png" width="380" height="180" style="object-fit: fill;" alt="Web Ludo" /> | <img src="../resources/ludo-history-research/ludo-6-player-android.png" width="220" height="180" style="object-fit: contain;" alt="6-player Ludo" /> | <img src="../resources/ludo-history-research/ludo-4-player-android.png" width="220" height="180" style="object-fit: contain;" alt="4-player Ludo" /> |
+| <img src="../resources/ludo-history-research/ludo-silvergames-desktop-web.png" width="380"  style="object-fit: contain;" alt="Web Ludo" /> | <img src="../resources/ludo-history-research/ludo-6-player-android.png" width="220" style="object-fit: contain;" alt="6-player Ludo" /> | <img src="../resources/ludo-history-research/ludo-4-player-android.png" width="220"  style="object-fit: contain;" alt="4-player Ludo" /> |
 
 ### Resources / References: 
 - [Origin of Ludo](https://ludoempire.com/blog/origin-of-ludo)
