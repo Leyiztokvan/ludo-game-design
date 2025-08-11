@@ -18,12 +18,8 @@
       <img src="/designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800">
     </td>
     <td align="center" >
-      <video width="360" controls autoplay muted loop>
-        <source src="/designs/prototype-figma/ludo-prototype-demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" width="120" height="200" />
-      <p><emb>[Click to watch the demo video](../designs/prototype-figma/ludo-prototype-demo.mp4)</emb></p>
+      <img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" />
+      <p><emb>[Click to watch the demo video](/designs/prototype-figma/ludo-prototype-demo.mp4)</emb></p>
     </td>
   </tr>
 </table>
