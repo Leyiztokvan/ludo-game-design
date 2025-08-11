@@ -22,9 +22,6 @@
         <source src="designs/prototype-figma/ludo-prototype-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <script>
-        document.getElementById('demo-video').volume = 0.1;
-      </script>
     </td>
   </tr>
 </table>
