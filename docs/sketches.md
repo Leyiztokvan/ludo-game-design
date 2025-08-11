@@ -1,12 +1,22 @@
 # Ludo Design & Sketches
+**Goal**: Create 4 different sketches for the main view of the Ludo game
+
+---
 
 ### Idea 
 - Desktop
   - Design: Ancient (Indian), Style: simple/ancient, Medium: Paper
   - Design: Modern (British), Style: Modern, Medium: Figma
 - Smartphone
-  - 3 above design for smartphones, Medium: iPad/draw.io
-  - Will be realised in prototype: Modern (British), Style: Modern, Medium: Figma
+  - Design: Old (Indian, Retro), Style: retro , Medium: iPad/draw.io
+  - Design: Modern (British), Style: Modern, Medium: Figma
+
+**Will be realised as a prototype**: 
+- Device: Smartphone
+- Style: Modern
+- Medium: Figma
+
+---
 
 ### Sketches
 
@@ -18,7 +28,9 @@
 #### Smartphone
 | Old (Indian, Retro) | Modern (British) |
 | :---: | :---: |
-| <img src="../designs/sketches/sketch-old-retro-indian.jpg" width="320" height="270" style="object-fit: contain;" alt="Retro Indian smartphone sketch" /> | <img src="../designs/sketches/ludo-prototype-wireframe.jpg" width="320" height="270" style="object-fit: contain;" alt="Smartphone wireframe" /> |
+| <img src="../designs/sketches/sketch-old-retro-indian.jpg" width="320" height="270" style="object-fit: contain;" alt="Retro Indian smartphone sketch" /> | <img src="../designs/sketches/ludo-prototype-wireframe.jpg" width="600" style="object-fit: contain;" alt="Smartphone wireframe" /> |
+
+---
 
 ### Inspiration
 - See research: [`history-of-ludo.md`](./history-of-ludo.md)

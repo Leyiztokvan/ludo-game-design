@@ -32,13 +32,14 @@
 
 <img src="../designs/prototype-figma/ludo-prototype-demo.jpeg" width="120" height="200" />
 
-**Note**: GitHub can not show the demo video because of its size (~ 9 MB)
+*A short interactive game scenario built in the free version of Figma — Player D wins.*
 
-[Click to watch the demo video](../designs/prototype-figma/ludo-prototype-demo.mp4) *(A short interactive game scenario built in Figma free version — Player D wins.)*
+Note: GitHub does not support inline video playback, and this demo video (~9 MB) is too large to preview directly.
+To watch the video: 👉 [Click here to download or open the demo video](../designs/prototype-figma/ludo-prototype-demo.mp4)
 
-[Download and watch the demo video](../designs/prototype-figma/ludo-prototype-demo.zip)
-
-*The design logic by always clicking on the dice to change turns between players is only implemented to be able to showcase the functionalities of the game. It was not possible to make a realistic interactive prototype scenario because of the limited functionalities of Figma free version.*
+    In the upper-right corner of the opened video page, click the ••• menu and select "Download" if it doesn’t play in your browser.
+    
+The design logic by always clicking on the dice to change turns between players is only implemented to showcase the functionalities of the game. A fully realistic interactive prototype scenario wasn’t possible due to limitations in the free version of Figma.
 
 ---
 
