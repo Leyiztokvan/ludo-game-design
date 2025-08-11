@@ -2,7 +2,7 @@
 Ludo is a classic board game that has entertained people for generations and has been a beloved pastime for many. Its simple and engaging gameplay has made it a major part of homes and social gatherings all over the world. While the base of most Ludo board games's gameplay is similar to each other, the design of the Ludo boards and pieces has evolved significantly over the years as per the changes in culture, design preferences, and technology.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../resources/ludo-history-research/ludo.png" style="object-fit: contain;" alt="ludo" />
+    <img src="../resources/ludo-history-research/ludo.png" width="800" height="600" style="object-fit: contain;" alt="ludo" />
 </div>
 
 ### The Origin of Ludo

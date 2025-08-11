@@ -6,7 +6,7 @@
 
 ### Wireframe
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="../designs/sketches/ludo-prototype-wireframe.jpg" style="object-fit: contain;" alt="wireframe" />
+    <img src="../designs/sketches/ludo-prototype-wireframe.jpg" width="600" height="400" style="object-fit: contain;" alt="wireframe" />
 </div>
 
 <br>
