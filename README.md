@@ -22,13 +22,9 @@
         <source src="designs/prototype-figma/ludo-prototype-demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <script>
-        document.getElementById('demo-video').volume = 0.1;
-      </script>
     </td>
   </tr>
 </table>
-
 
 ## Introduction
 This project showcases the end-to-end UI/UX design process for a Ludo board game interface, created for a university Software Engineering course - GUI/UX exercise. It demonstrates the application of design concepts, research, hand-drawn and digital wireframes, and an interactive prototype built in Figma.
