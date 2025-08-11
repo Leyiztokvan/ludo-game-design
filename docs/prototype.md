@@ -29,9 +29,14 @@
 - The assets used in the prototype are available in the [assets-figma](/resources/assets-figma/) folder.
 
 #### Short Demo of a Game Scenario
+
 <img src="../designs/prototype-figma/ludo-prototype-demo.jpeg" width="120" height="200" />
 
+**Note**: GitHub can not show the demo video because of its size (~ 9 MB)
+
 [Click to watch the demo video](../designs/prototype-figma/ludo-prototype-demo.mp4) *(A short interactive game scenario built in Figma free version — Player D wins.)*
+
+[Download and watch the demo video](../designs/prototype-figma/ludo-prototype-demo.zip)
 
 *The design logic by always clicking on the dice to change turns between players is only implemented to be able to showcase the functionalities of the game. It was not possible to make a realistic interactive prototype scenario because of the limited functionalities of Figma free version.*
 

@@ -18,8 +18,8 @@
       <img src="/designs/prototype-figma/ludo-prototype-all-pages.png" alt="Prototype Screens" width="800">
     </td>
     <td align="center" >
-      <img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" />
-      <p><emb>[Click to watch the demo video](/designs/prototype-figma/ludo-prototype-demo.mp4)</emb></p>
+      <img src="/designs/prototype-figma/ludo-prototype-demo.jpeg" width="160" height="240"/>
+      <a href= "/designs/prototype-figma/ludo-prototype-demo.mp4">Click to watch the demo video</a>
     </td>
   </tr>
 </table>
