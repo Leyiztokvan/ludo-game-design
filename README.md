@@ -30,7 +30,7 @@ This project showcases the end-to-end UI/UX design process for a Ludo board game
 - Exercise brief (original requirements): [`exercise.md`](./docs/exercise.md)
 - Sketches and early ideas: [`sketches.md`](./docs/sketches.md)
 - Interactive prototype and demo: [`prototype.md`](./docs/prototype.md)
-- Background research and inspiration: [`history-of-ludo.md`](./docs/history_of_ludo.md)
+- Background research and inspiration: [`history-of-ludo.md`](./docs/history-of-ludo.md)
 - Project tasks overview: [tasks.md](./docs/tasks.md)
 
 ## Tools Used
@@ -39,7 +39,7 @@ This project showcases the end-to-end UI/UX design process for a Ludo board game
 
 ## Resources / References
 - Iconography: [Flaticon](https://www.flaticon.com/free-icon/fireworks_7882857?related_id=7882857)
-- Ludo background and visual references: see [`history-of-ludo.md`](./docs/history_of_ludo.md)
+- Ludo background and visual references: see [`history-of-ludo.md`](./docs/history-of-ludo.md)
 
 ## Attribution
 This project was created as part of the university Software Engineering course to learn and practice UI/UX workflows and interactive prototyping techniques.
